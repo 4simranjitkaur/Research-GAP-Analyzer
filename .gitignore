@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+.venv/
+venv/
+.python-version
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Misc
+*.log
+*.tmp
+.DS_Store
